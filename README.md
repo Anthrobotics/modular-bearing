@@ -1,7 +1,7 @@
 ![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/banner.jpg?raw=true)
 
 # modular-bearing
-A lightweight, customizable and parametric bearing manufacturable using 3D printing and CNC machining.
+A lightweight, customizable and parametric bearing, manufacturable using 3D printing and CNC machining.
 
 # Description
 The modular bearing is designed as an alternative for non-replaceable (or difficult to replace) bearings in robotic joints and actuators. It is customized using an OpenSCAD generator, and can be used in a wide number of designs. It can be swapped out without requiring any tools, depending on how it is integrated into a design.
