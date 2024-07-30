@@ -50,17 +50,41 @@ Printed components:
 - rolling elements (number will vary)
 
 COTS components:
-The number and quantity of commercial fasteners will vary depending on the configuration of the bearing. The following components are recommended for use with the modular bearing:
-- roll pins (to secure the outer ring halves togetehr)
+The size and quantity of commercial fasteners will vary depending on the configuration of the bearing. The following components are recommended for use with the modular bearing:
+- roll pins (to secure the outer ring halves together)
 - countersunk bolts, to attach the bearing
 
 Tools:
 - 3D printer
 - Tweezers (to assist with bearing assembly)
-- PTFE lubricant (Super-Lube) for bearign races and rolling elements
+- PTFE lubricant (Super-Lube) for bearing races and rolling elements
 
 # Assembly Guide
-Coming soon.
+## The bearing shown below is configured for the [WOLF actuator](https://github.com/Anthrobotics/wolf-actuator), however, the assembly procedure will apply to any modular bearing.
+## Step 1: Place the inner ring inside of the lower half of the outer ring.
+
+![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/mod-bearing-wolf-step-1.png?raw=true)
+
+## Step 2: Place the cage in between the inner ring and lower half of the outer ring.
+
+![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/mod-bearing-wolf-step-2.png?raw=true)
+
+## Step 3: Insert the rollers into the cage. Alternate orientation of the rollers as shown below.
+
+![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/mod-bearing-wolf-step-3.png?raw=true)
+
+![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/mod-bearing-wolf-step-3(1).png?raw=true)
+
+## Step 4: Apply PTFE lubricant (Super-Lube) to the rollers. Place the upper half of the outer ring on top of the lower.
+
+![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/mod-bearing-wolf-step-4.png?raw=true)
+
+## Step 5: Secure the outer ring halves using 6 or 12 M3x10mm roll pins, by inserting them into the secondary holes of the rings.
+### Note: It is advised to use the secondary holes to the left or right of the middle one, as that hole will typically be used to secure loads.
+
+![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/mod-bearing-wolf-step-5.png?raw=true)
+
+![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/mod-bearing-wolf-step-5(1).png?raw=true)
 
 # Usage
 The modular bearing can be integrated into a number of designs, including:
